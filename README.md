@@ -41,16 +41,21 @@ _React Native:_ The project is built using React Native, enabling cross-platform
 **#Installation:**
 
 To run the project, follow these steps:
+
 #Clone the repository:
+
 bash
+
 Copy code
+
 git clone <repository-url>
+
 Navigate to the project directory:
-arduino
-Copy code
-cd image-classifier
+
 Install dependencies:
+
 Copy code
+
 npm install
 
 **Add Firebase Configuration:**
