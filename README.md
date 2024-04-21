@@ -2,15 +2,20 @@
 Image Classifier is a mobile application that allows users to sign in, take pictures, select images from the gallery, classify images, and encode images. This project leverages Firebase authentication for user sign-in and Expo for mobile application development.
 
 **#Features:**
+
 _User Authentication:_
 Users are required to sign in before accessing the app's functionalities.
 Firebase authentication is used for secure user authentication.
+
 _Capture Images:_
 Users can take pictures using their device's camera within the app.
+
 _Select Images from Gallery:_
 Users have the option to choose images from their device's gallery.
+
 _Image Classification:_
 The app provides image classification functionality, allowing users to classify selected images.
+
 _Image Encoding:_
 Users can encode images using the app's encoding feature.
 Here are some common tasks you can accomplish using a sentence encoder model:
